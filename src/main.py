@@ -6,7 +6,7 @@ from picamera import PiCamera
 from gps_utils import parseGPS, createFilenames, convertToMP4 
 
 # globals
-VIDEO_LENGTH = (60 * 0.25) # in seconds
+VIDEO_LENGTH = (60 * 10) # in seconds
 VIDEO_RATE = 25 # framerate
 
 def main():
@@ -14,15 +14,15 @@ def main():
     recording_path = "/media/usb/Dashcam/Recordings/"
     logging_path = "/media/usb/Dashcam/Logs/"
     gps_dict = {
-        "Date" : "",
-        "Time" : "",
-        "Latitude"  : "",
-        "LatDirection" : "",
-        "Longitude" : "",
-        "LongDirection" : "",
-        "Speed" : "",
-        "TrueCourse" : "",
-        "Altitude" : ""
+        "Date" : "xx/xx/xxxx",
+        "Time" : "xx:xx:xx",
+        "Latitude"  : "xxxx",
+        "LatDirection" : "x",
+        "Longitude" : "xxxx",
+        "LongDirection" : "x",
+        "Speed" : "xx",
+        "TrueCourse" : "xxx",
+        "Altitude" : "xxx"
     }
     
     # initialize serial port

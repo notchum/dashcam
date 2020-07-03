@@ -1,1 +1,9 @@
 # dashcam
+
+https://www.amazon.com/gp/product/B07BTP8VXL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+https://www.digikey.com/product-detail/en/COM-14567/1568-1821-ND/8324538?utm_medium=email&utm_source=oce&utm_campaign=3024_OCE20RT&utm_content=productdetail_US&utm_cid=1175465&so=62943201&mkt_tok=eyJpIjoiWWpGaVlUVm1OalE0TUdZMyIsInQiOiJON1luQmhnckRYVVA2bWRvSFZnNktOZ0lxbHVsZ3Y1WFhJdzlwXC9oaHd1N1k3U05ZTlNhTTFyd2JcL0dMRFBxRmpacHE5WlBxZ3BhcXdXNnpYUDJSVE1iREROdEk3WWFhSnhpS1ZUMVwveGdrRkc2ZHd4WXRVOUx6UTFOWlV0R2FpNyJ9
+
+https://www.racedayquads.com/products/micro-ublox-m8n-gps-glonass?variant=8730273349739&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAjwi_b3BRAGEiwAemPNU4GzUlMBN1qUqqBSLWP9ZHq5eBEeStsTBnRZI1SxmPMUBpA9oOqIbBoCoeAQAvD_BwE
+
+https://www.thingiverse.com/thing:4518401

@@ -78,16 +78,6 @@ def parseGPS(data, logfile, gps_dict):
             with open(logfile, 'a') as f:
                 f.write(data_string + '\n')
 
-    # TODO: remove this bit, just test
-    gps_dict["Date"] = "9/22/2020"
-    gps_dict["Time"] = "14:50:48"
-    gps_dict["Latitude"] = "50deg 52.1414min"
-    gps_dict["LatDirection"] = "N"
-    gps_dict["Longitude"] = "50def 05.2949min"
-    gps_dict["LongDirection"] = "W"
-    gps_dict["Speed"] = "30.8"
-    gps_dict["Altitude"] = "85.2"
-    gps_dict["TrueCourse"] = "230.9"
     return gps_dict
  
 def decode(coord):

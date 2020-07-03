@@ -85,8 +85,8 @@ $ mkdir Recordings/ Logs/
 After creating each directory on the USB stick, the tree should look like:
 ```
 /media/usb/Dashcam/
-├── Logs
-└── Recordings
+├── Logs/
+└── Recordings/
 ```
 
 ## Last Notes

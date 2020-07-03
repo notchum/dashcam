@@ -1,0 +1,5 @@
+# To record from PiCam
+@reboot sudo python3 /home/pi/dashcam/src/main.py &
+
+# Delete an old folders to clear space
+@reboot /home/pi/dashcam/src/purge.sh
